@@ -1,0 +1,50 @@
+[
+  [
+    "Central",
+    0,
+    0,
+    2,
+    2,
+    null
+  ],
+  [
+    "Ashton",
+    1,
+    0,
+    1,
+    1,
+    "https://google.com"
+  ],
+  [
+    "East Ashton",
+    2,
+    0,
+    1,
+    1,
+    null
+  ],
+  [
+    "Airport Parkway",
+    3,
+    0,
+    1,
+    1,
+    null
+  ],
+  [
+    "Violet Gardens",
+    -1,
+    0,
+    1,
+    2,
+    null
+  ],
+  [
+    "Airport Central",
+    6,
+    -1,
+    3,
+    2,
+    null
+  ]
+]
